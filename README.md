@@ -1,7 +1,7 @@
 # Study Buddies
 
 
-My project link: [Study Buddies](https://elated-yalow-90af5b.netlify.app/home).
+My project link: [Study Buddies](https://elated-yalow-90af5b.netlify.app/).
 
 ## About my project
 <ol>
